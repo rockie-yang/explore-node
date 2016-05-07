@@ -1,0 +1,23 @@
+{
+  "name": "explore-node",
+  "version": "1.0.0",
+  "description": "explore nodejs and other libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockiey/explore-node.git"
+  },
+  "author": "Rockie Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockiey/explore-node/issues"
+  },
+  "homepage": "https://github.com/rockiey/explore-node#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0"
+  }
+}
